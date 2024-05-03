@@ -1,7 +1,6 @@
 # rent_a_home
 
-A new Flutter project.
-
+Final Year Project
 ## Getting Started
 
 This project is a starting point for a Flutter application.
